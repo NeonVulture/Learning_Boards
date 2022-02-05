@@ -4,6 +4,9 @@
 
 #### A learning board to teach 
 
+Features: 
++ Board can be set to drive both common cathode and common anode displays.
+
 Component List:
 + 1x Single Digit 7-Segment Display (Common Cathode or Common Anode) 
 + 7x 220 - 470 Ohm Resistors
