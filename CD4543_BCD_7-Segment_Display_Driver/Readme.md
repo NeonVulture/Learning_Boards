@@ -5,6 +5,11 @@
 #### A learning board to teach 
 
 Component List:
++ 1x Single Digit 7-Segment Display (Common Cathode or Common Anode) 
++ 7x 220 - 470 Ohm Resistors
++ 4x SPDT Switches
++ Breadboard (For Protoyping Only)
++ Jumper Wires (For Prototyping Only)
 
 Circuit Wiring:
 
