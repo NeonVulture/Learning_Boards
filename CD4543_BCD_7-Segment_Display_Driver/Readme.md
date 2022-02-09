@@ -9,15 +9,21 @@ Features:
 
 Component List:
 + 1x Single Digit 7-Segment Display (Common Cathode or Common Anode) 
-+ 7x 220 - 470 Ohm Resistors
++ 2x 5x1 Female Row Headers (PCB)
++ 7x 220 - 470 Ohm Resistors 
 + 4x SPDT Switches
 + Breadboard (For Protoyping Only)
 + Jumper Wires (For Prototyping Only)
 
 Circuit Wiring:
 
-![Schematic](https://github.com/NeonVulture/Learning_Boards/blob/main/CD4543_BCD_7-Segment_Display_Driver/Assests/Circuit_Wiring.jpg "Schematic")
+![Schematic](https://github.com/NeonVulture/Learning_Boards/blob/main/CD4543_BCD_7-Segment_Display_Driver/Assests/Schematic.jpg "Schematic")
 
 Simulation:
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 PCB Design:
