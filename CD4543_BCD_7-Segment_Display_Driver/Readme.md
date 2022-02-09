@@ -21,9 +21,11 @@ Circuit Wiring:
 
 Simulation:
 
-| First Header  | Second Header |
+#### Truth Table
+
+| Bit 0  | Bit 1 | Bit 2 | Bit 3
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 0  | 0  | 0 | 0
+| 0  | 0  | 0 | 1
 
 PCB Design:
